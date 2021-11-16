@@ -13,6 +13,7 @@
 		07F2237827436EB1003B5F7F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 07F2237627436EB1003B5F7F /* Main.storyboard */; };
 		07F2237A27436EB2003B5F7F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 07F2237927436EB2003B5F7F /* Assets.xcassets */; };
 		07F2237D27436EB2003B5F7F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 07F2237B27436EB2003B5F7F /* LaunchScreen.storyboard */; };
+		07F2238527438EC8003B5F7F /* PrintPhoto.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07F2238427438EC8003B5F7F /* PrintPhoto.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		07F2237927436EB2003B5F7F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		07F2237C27436EB2003B5F7F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		07F2237E27436EB2003B5F7F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		07F2238427438EC8003B5F7F /* PrintPhoto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrintPhoto.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				07F2237027436EB1003B5F7F /* AppDelegate.swift */,
 				07F2237227436EB1003B5F7F /* SceneDelegate.swift */,
 				07F2237427436EB1003B5F7F /* ViewController.swift */,
+				07F2238427438EC8003B5F7F /* PrintPhoto.swift */,
 				07F2237627436EB1003B5F7F /* Main.storyboard */,
 				07F2237927436EB2003B5F7F /* Assets.xcassets */,
 				07F2237B27436EB2003B5F7F /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				07F2237527436EB1003B5F7F /* ViewController.swift in Sources */,
 				07F2237127436EB1003B5F7F /* AppDelegate.swift in Sources */,
+				07F2238527438EC8003B5F7F /* PrintPhoto.swift in Sources */,
 				07F2237327436EB1003B5F7F /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
